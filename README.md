@@ -35,3 +35,7 @@ Now that you have the context and problem specifics, let's dive right in!
 
 # Download (Dataset+Data Dictionary)
 https://drive.google.com/open?id=1rl7CrlSzhW9nR7VHhx8az_0SbIBBrxkB
+
+# cleaned_df.csv https://drive.google.com/open?id=1KC8V4265gIkiHZmKrgol79rrmIwvOkWP
+# analytical_base_table.csv  https://drive.google.com/open?id=17ITZtZJMku17vqoSFzfjo2vh38forfyL
+# final_model.pkl https://drive.google.com/open?id=1sffYOwOUOw69GgD5y8yoOZyLqAtHO8Wy
